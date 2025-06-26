@@ -19,26 +19,26 @@ const Rooms = () => {
   const cardData = [
     {
       title: "2BHK ",
-      image: "/src/assets/roomImg1.png",
+      image: "/assets/roomImg1.png",
     },
     {
       title: "Design Your Digital Future",
-      image: "/src/assets/IMG_6277.jpg",
+      image: "/assets/IMG_6277.jpg",
     },
     {
       title: "Build with Passion, Ship with Pride",
-      image: "/src/assets/IMG_6291.jpg",
+      image: "/assets/IMG_6291.jpg",
     },
     {
       title: "Think Big, Code Smart",
-      image: "/src/assets/IMG_6304.jpg",
+      image: "/assets/IMG_6304.jpg",
     },
   ];
 
   return (
     <>
     
-    <HeroSection image="/src/assets/IMG_E6024.jpg" title="Explore Our Rooms" />
+    <HeroSection image="/assets/IMG_E6024.jpg" title="Explore Our Rooms" />
 
     {/*  Marquee Styles */} 
     <RoomGallery />
