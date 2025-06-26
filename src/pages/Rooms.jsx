@@ -10,10 +10,10 @@ const Rooms = () => {
   const [stopScroll, setStopScroll] = useState(false);
 
   const thumbnails = [
-    '/src/assets/2.png',
-    '/src/assets/IMG_6277.jpg',
-    '/src/assets/IMG_6291.jpg',
-    '/src/assets/IMG_6304.jpg',
+    '/assets/2.png',
+    '/assets/IMG_6277.jpg',
+    '/assets/IMG_6291.jpg',
+    '/assets/IMG_6304.jpg',
   ];
 
   const cardData = [
