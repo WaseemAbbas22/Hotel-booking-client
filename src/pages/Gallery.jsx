@@ -10,7 +10,7 @@ const Gallery = () => {
     <>
     
     <HeroSection
-      image="/src/assets/IMG_E6024.jpg"
+      image="/assets/IMG_E6024.jpg"
       title="Discover The Beauty of Tarishing"
       subtitle="From humble beginnings to a mountain paradise"
     />
