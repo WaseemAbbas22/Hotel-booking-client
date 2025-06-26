@@ -5,7 +5,7 @@ const InfoSectionImageText = () => {
   return (
     <div className="info-row-img">
       <div className="info-img" data-aos="zoom-in">
-        <img src="/src/assets/IMG_6284.jpg" alt="Hotel Room" />
+        <img src="/assets/IMG_6284.jpg" alt="Hotel Room" />
       </div>
       <div className="info-text" data-aos="fade-left">
         <h2>Serene Ambiance with a View</h2>
