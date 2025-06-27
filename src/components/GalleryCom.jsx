@@ -3,23 +3,13 @@
 import { useNavigate } from 'react-router-dom';
 
 const galleryImages = [
-  {
-    image: './assets/IMG_6011.jpg',
-    title: 'Deluxe Room',
-    price: 'Rs. 8,500 / night',
-    capacity: '2 Adults + 1 Child',
-  },
+  
   {
     image: './assets/IMG_6277.jpg',
     title: 'Executive Suite',
     price: 'Rs. 12,000 / night',
     capacity: '3 Adults',
-  },  {
-    image: './assets/IMG_6288.jpg',
-    title: 'Standard Room',
-    price: 'Rs. 6,000 / night',
-    capacity: '2 Adults',
-  },
+  }, 
   {
     image: './assets/IMG_6291.jpg',
     title: 'Premium Suite',
@@ -51,13 +41,7 @@ const galleryImages = [
     capacity: '3 Adults + 1 Child',
   },
   {
-    image: './assets/IMG_6288.jpg',
-    title: 'Sea View Suite',
-    price: 'Rs. 17,500 / snight',
-    capacity: '4 Adults',
-  },
-  {
-    image: './assets/IMG_6291.jpg',
+    image: './assets/IMG_6302.jpg',
     title: 'Budget Room',
     price: 'Rs. 4,000 / night',
     capacity: '2 Adults',
@@ -68,12 +52,7 @@ const galleryImages = [
     price: 'Rs. 22,000 / night',
     capacity: '5 Adults',
   },
-  {
-    image: './assets/IMG_6309.jpg',
-    title: 'Family Room',
-    price: 'Rs. 9,000 / night',
-    capacity: '3 Adults + 2 Kids',
-  },
+  
 ];
 
 const GalleryCom = () => {

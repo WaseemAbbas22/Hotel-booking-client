@@ -10,7 +10,7 @@ const Rooms = () => {
   const [stopScroll, setStopScroll] = useState(false);
 
   const thumbnails = [
-    '/assets/2.png',
+    '/assets/IMG_6309.jpg',
     '/assets/IMG_6277.jpg',
     '/assets/IMG_6291.jpg',
     '/assets/IMG_6304.jpg',

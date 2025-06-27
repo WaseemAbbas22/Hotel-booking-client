@@ -3,38 +3,38 @@ import './RoomGallery.css';
 
 const rooms = [
   {
-    title: 'Deluxe Room (2-4 Persons)',
+    title: 'Deluxe Room ',
     image: './assets/IMG_6277.jpg',
     adults: 2,
     children: 4,
   },
   {
-    title: 'Deluxe Room (2-4 Persons)',
-    image: './assets/IMG_6288.jpg',
+    title: 'Deluxe Room ',
+    image: './assets/IMG_6292.jpg',
     adults: 2,
     children: 4,
   },
   {
-    title: 'Deluxe Room (2-4 Persons)',
+    title: 'Deluxe Room ',
     image: './assets/IMG_6291.jpg',
     adults: 2,
     children: 4,
   },
   {
-    title: 'Deluxe Room (2-4 Persons)',
+    title: 'Deluxe Room ',
     image: './assets/IMG_6304.jpg',
     adults: 2,
     children: 4,
   },
   {
-    title: 'Deluxe Room (2-4 Persons)',
+    title: 'Deluxe Room ',
     image: './assets/IMG_6309.jpg',
     adults: 2,
     children: 4,
   },
   {
-    title: 'Deluxe Room (2-4 Persons)',
-    image: './assets/IMG_6277.jpg',
+    title: 'Deluxe Room ',
+    image: './assets/IMG_6302.jpg',
     adults: 2,
     children: 4,
   },
@@ -57,11 +57,11 @@ const RoomGallery = () => {
             <div className="room-info">
               <div>
                 <strong>{room.adults}</strong>
-                <div>MAX ADULTS</div>
+                <div> ADULTS</div>
               </div>
               <div>
                 <strong>{room.children}</strong>
-                <div>MAX CHILDREN</div>
+                <div>MAX</div>
               </div>
             </div>
           </div>

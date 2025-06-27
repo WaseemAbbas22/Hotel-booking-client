@@ -1,8 +1,8 @@
 import React from 'react';
 
 const images = [
-  './assets/dining1.jpg',
-  './assets/dining2.jpg',
+  './assets/1.png',
+  './assets/2.png',
   './assets/dining1.jpg',
   './assets/dining2.jpg',
   './assets/dining3.jpg',
