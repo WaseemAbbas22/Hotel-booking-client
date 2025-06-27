@@ -1,12 +1,12 @@
 import React from 'react';
 
 const images = [
-  "/assets/IMG_6071.jpg",
-  "/assets/IMG_6059.jpg",
-  "/assets/IMG_E6003.jpg",
-  "/assets/IMG_6070.jpg",
-  "/assets/IMG_E6007.jpg",
-  "/assets/IMG_6063.jpg"
+  "./assets/IMG_6071.jpg",
+  "./assets/IMG_6059.jpg",
+  "./assets/IMG_E6003.jpg",
+  "./assets/IMG_6070.jpg",
+  "./assets/IMG_E6007.jpg",
+  "./assets/IMG_6063.jpg"
 ];
 
 const OwnerGallery = () => {

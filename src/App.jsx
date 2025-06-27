@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 
 import Home from './pages/Home';
 import Rooms from './pages/Rooms';
-import OurTeam from './pages/OurTeam';
+//import OurTeam from './pages/OurTeam';
 import About from './pages/About';
 import 'leaflet/dist/leaflet.css';
 import Gallery from './pages/Gallery';
@@ -37,7 +37,6 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Rooms" element={<Rooms />} />
-          <Route path="/OurTeam" element={<OurTeam />} />
           <Route path="/About" element={<About />} />
           <Route path='/Gallery' element={<Gallery />} />
           <Route path='/Dining'  element={<Dining />}/>

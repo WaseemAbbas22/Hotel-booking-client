@@ -5,7 +5,7 @@ import HeroSection from '../components/HeroSection';
 
 const Rooms = () => {
   const [mainImage, setMainImage] = useState(
-    '/src/assets/IMG_6304.jpg'
+    '/assets/IMG_6304.jpg'
   );
   const [stopScroll, setStopScroll] = useState(false);
 
@@ -19,26 +19,26 @@ const Rooms = () => {
   const cardData = [
     {
       title: "2BHK ",
-      image: "/assets/roomImg1.png",
+      image: "./assets/IMG_6277.jpg",
     },
     {
       title: "Design Your Digital Future",
-      image: "/assets/IMG_6277.jpg",
+      image: "./assets/IMG_6277.jpg",
     },
     {
       title: "Build with Passion, Ship with Pride",
-      image: "/assets/IMG_6291.jpg",
+      image: "./assets/IMG_6291.jpg",
     },
     {
       title: "Think Big, Code Smart",
-      image: "/assets/IMG_6304.jpg",
+      image: "./assets/IMG_6304.jpg",
     },
   ];
 
   return (
     <>
     
-    <HeroSection image="/assets/IMG_E6024.jpg" title="Explore Our Rooms" />
+    <HeroSection image="./assets/IMG_E6024.jpg" title="Explore Our Rooms" />
 
     {/*  Marquee Styles */} 
     <RoomGallery />

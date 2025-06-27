@@ -1,15 +1,15 @@
 import React from 'react';
 
 const images = [
-  '/assets/dining1.JPG',
-  '/assets/dining2.JPG',
-  '/assets/dining1.JPG',
-  '/assets/dining2.JPG',
-  '/assets/dining3.JPG',
-  '/assets/IMG_6288.JPG',
-  '/assets/IMG_6039.JPG',
-  '/assets/IMG_6049.JPG',
-  '/assets/IMG_6299.JPG',
+  './assets/dining1.jpg',
+  './assets/dining2.jpg',
+  './assets/dining1.jpg',
+  './assets/dining2.jpg',
+  './assets/dining3.jpg',
+  './assets/IMG_6011.jpg',
+  './assets/IMG_6039.jpg',
+  './assets/IMG_6049.jpg',
+  './assets/IMG_6299.jpg',
 ];
 
 const Grid = () => {
