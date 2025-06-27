@@ -22,17 +22,17 @@ const Footer = () => {
           <p>Office no 4 & 5 Lower Ground,</p>
           <p>Areej Tower, E-11/3 Markaz,</p>
           <p>near Tooba Mosque, Islamabad</p>
-          <p className="mt-2 font-bold">Call: +92-3000-341551</p>
+          <p className="mt-2 font-bold">Call: +92-3555-850462</p>
         </div>
 
         {/* Quick Links */}
         <div className="flex-1">
           <h2 className="text-lg font-bold mb-2">Quick Links</h2>
           <ul className="space-y-1">
-            <li><Link to="#">Our Rooms</Link></li>
-            <li><Link to="#">Home</Link></li>
-            <li><Link to="#">About Us</Link></li>
-            <li><Link to="#">Contact</Link></li>
+            <li><Link to="/Rooms">Our Rooms</Link></li>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/About">About Us</Link></li>
+            <li><Link to="/Contact">Contact</Link></li>
             <li><Link to="#">FAQs</Link></li>
           </ul>
         </div>

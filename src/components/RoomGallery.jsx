@@ -3,40 +3,40 @@ import './RoomGallery.css';
 
 const rooms = [
   {
-    title: 'SHANGRILA CHALET',
+    title: 'Deluxe Room (2-4 Persons)',
     image: './assets/IMG_6277.jpg',
-    adults: 6,
-    children: 3,
+    adults: 2,
+    children: 4,
   },
   {
-    title: '3 BEDROOM EXECUTIVE SUITE',
+    title: 'Deluxe Room (2-4 Persons)',
     image: './assets/IMG_6288.jpg',
-    adults: 6,
-    children: 3,
+    adults: 2,
+    children: 4,
   },
   {
-    title: '2 BEDROOM EXECUTIVE SUITE',
+    title: 'Deluxe Room (2-4 Persons)',
     image: './assets/IMG_6291.jpg',
-    adults: 4,
-    children: 2,
+    adults: 2,
+    children: 4,
   },
   {
-    title: 'SWISS VILLA',
+    title: 'Deluxe Room (2-4 Persons)',
     image: './assets/IMG_6304.jpg',
-    adults: 4,
-    children: 2,
+    adults: 2,
+    children: 4,
   },
   {
-    title: 'EXECUTIVE SUITE',
+    title: 'Deluxe Room (2-4 Persons)',
     image: './assets/IMG_6309.jpg',
     adults: 2,
-    children: 1,
+    children: 4,
   },
   {
-    title: 'SWISS COTTAGES',
+    title: 'Deluxe Room (2-4 Persons)',
     image: './assets/IMG_6277.jpg',
-    adults: 4,
-    children: 2,
+    adults: 2,
+    children: 4,
   },
 ];
 

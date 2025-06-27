@@ -18,19 +18,19 @@ const Rooms = () => {
 
   const cardData = [
     {
-      title: "2BHK ",
+      title: " Deluxe Room (2-4 Persons)",
+      image: "./assets/IMG_6302.jpg",
+    },
+    {
+      title: "Deluxe Room (2-4 Persons)",
       image: "./assets/IMG_6277.jpg",
     },
     {
-      title: "Design Your Digital Future",
-      image: "./assets/IMG_6277.jpg",
-    },
-    {
-      title: "Build with Passion, Ship with Pride",
+      title: "Deluxe Room (2-4 Persons)",
       image: "./assets/IMG_6291.jpg",
     },
     {
-      title: "Think Big, Code Smart",
+      title: "Deluxe Room (2-4 Persons)",
       image: "./assets/IMG_6304.jpg",
     },
   ];
